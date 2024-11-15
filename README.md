@@ -5,7 +5,7 @@ Suitable for pentesters, bug hunting, exploitation, mapping, etc. You can instal
 the number it falls under.
 
 INSTALLATION [ TERMUX, LINUX, WINDOWS ]
-
+**
 git clone https://github.com/SirManishKumar/MNSAllTools
 
 cd MNSAllTools
@@ -30,3 +30,4 @@ Python,
 Curl,
 Wget,
 git,
+**
